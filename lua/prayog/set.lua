@@ -21,7 +21,8 @@ vim.opt.termguicolors = true
 vim.opt.scrolloff = 8
 vim.opt.updatetime = 50
 
-vim.opt.colorcolumn = "80"
+vim.opt.colorcolumn = "100"
 
-vim.opt.guifont = "Input Mono:h20"
+vim.opt.guifont = "Input Mono:h14"
 
+vim.g.neovide_cursor_animation_length=0.02

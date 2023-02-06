@@ -14,7 +14,6 @@ Plug 'preservim/nerdtree'
 Plug 'https://github.com/ryanoasis/vim-devicons'
 Plug 'vim-airline/vim-airline'
 Plug 'kyazdani42/nvim-web-devicons'
-Plug 'folke/trouble.nvim'
 Plug 'tpope/vim-commentary'
 
 --LSP
